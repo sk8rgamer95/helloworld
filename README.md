@@ -1,5 +1,4 @@
-# helloworld
-hello computer
+# The Bracketteer
 
-
-Nord here, coding and editing in realtime. Mostly bored and figuring stuff out as we go.
+This is atempt to make a live or psuedolive updating tournament bracket(ing) tool.
+not sure how to start this, but hopefully going to have a running demo of sorts by the end of the week
